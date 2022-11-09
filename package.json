@@ -1,0 +1,23 @@
+{
+  "name": "accelerated-mobile-pages-foundations",
+  "version": "1.0.0",
+  "description": "This folder contains the source code for a Google I/O 2016 codelab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlecodelabs/accelerated-mobile-pages-foundations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/googlecodelabs/accelerated-mobile-pages-foundations/issues"
+  },
+  "homepage": "https://github.com/googlecodelabs/accelerated-mobile-pages-foundations#readme",
+  "devDependencies": {
+    "@ampproject/eleventy-plugin-amp": "^0.5.8"
+  }
+}
